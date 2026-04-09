@@ -163,7 +163,7 @@ async function createInitialHelpMenu() {
 
 const websiteButton = new ButtonBuilder()
   .setLabel('Website')
-  .setURL('https://adventurous-optimism-production.up.railway.app/')
+  .setURL('https://ritikdas829-commits.github.io/BRB-kingdom-/')
   .setStyle(ButtonStyle.Link);
 
 const supportButton = new ButtonBuilder()
